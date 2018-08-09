@@ -1,5 +1,7 @@
-# PathMeasure
-Android Path系列之PathMeasure+Loading效果+小车跑道移动效果
+## Just Demo for 'PathMeasure'
+
+### [Android Path系列之PathMeasure+Loading效果+小车跑道移动效果](https://blog.csdn.net/samlss/article/details/80860580)
+
 
 | Author        | Samlss           |
 | ------------- |:-------------:|
@@ -7,6 +9,8 @@ Android Path系列之PathMeasure+Loading效果+小车跑道移动效果
 
 <br>
 
-**如果对你开发起到帮助，请star一下；**<br>
 
-原文：https://blog.csdn.net/samlss/article/details/80860580
+### Find, find, find a friend, find a good friend.
+### 找呀找啊找朋友，找到一个好朋友
+
+![WeChat](https://github.com/samlss/FunnyLoadingViews/blob/master/wechat.jpg)
