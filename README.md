@@ -1,12 +1,12 @@
 ## Just a demo for 'PathMeasure'
 
-### [Android Path系列之PathMeasure+Loading效果+小车跑道移动效果](https://blog.csdn.net/samlss/article/details/80860580)
-
-
 | Author        | Samlss           |
 | ------------- |:-------------:|
 | Email      | 729717222@qq.com |
 | :dog: :dog:      | :dog: :dog: |
+
+
+### [Android Path系列之PathMeasure+Loading效果+小车跑道移动效果](https://blog.csdn.net/samlss/article/details/80860580)
 
 <br>
 
